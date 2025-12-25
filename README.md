@@ -1,4 +1,4 @@
-# Proyecto Desarrollo de software.
+# Proyecto Desarrollo de aplicación web.
 Este repositorio tiene como objetivo desarrollar una aplicación web para visualizar los datos del dataset vehicles_us.csv y procesarlos de manera que sea más sencillo para los usuarios ver los vehículos y modelos disponibles.
 
 En este proyecto tenemos 2 gráficos y una tabla de información de los autos. Explicaré la función de cada uno de ellos en este documento.
